@@ -68,7 +68,7 @@ export const storeProducts = [
     id: 6,
     title: "iphone xs",
     img: "img/product-6.png",
-    price: 999,
+    price: 799,
     company: "APPLE",
     info:
       "The iphone Xs' 7 MP front camera features a f/2.2 wide-angle lens and lets you shoot videos at a 1080p resolution, at up to 60 fps. Enjoy superfast download speeds, courtesy of the phone's 4G advanced LTE connectivity. The phone boasts a 64 GB of ROM for your media files.",
@@ -80,7 +80,7 @@ export const storeProducts = [
     id: 7,
     title: "iphone 12 pro",
     img: "img/product-7.png",
-    price: 1,071,
+    price: 899,
     company: "APPLE",
     info:
       "The iPhone 12 Pro display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less)",
@@ -92,7 +92,7 @@ export const storeProducts = [
     id: 8,
     title: "iphone 15 pro",
     img: "img/product-8.png",
-    price: 1,299,
+    price: 999,
     company: "APPLE",
     info:
       "The iPhone 15 Pro display has rounded corners that follows a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 15.54 cm (6.12″) diagonally (actual viewable area is less).",
