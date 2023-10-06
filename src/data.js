@@ -6,84 +6,96 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
+    title: "iPhone 3GS",
     img: "img/product-1.png",
-    price: 10,
-    company: "GOOGLE",
+    price: 199,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Apple iPhone 3GS mobile was launched in June 2009. The phone comes with a touchscreen display offering a resolution of 320x480 pixels at a pixel density of 165 pixels per inch (ppi). Apple iPhone 3GS is powered by a 600 MHz one-core processor. It comes with 256MB of RAM.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Samsung S7",
+    title: "iPhone 4S",
     img: "img/product-2.png",
-    price: 16,
-    company: "SAMSUNG",
+    price: 399,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Apple iPhone 4S mobile was launched in October 2011. The phone comes with a 3.50-inch touchscreen display offering a resolution of 640x960 pixels at a pixel density of 326 pixels per inch (ppi). Apple iPhone 4S is powered by an 800 MHz dual-core processor. It comes with 512MB of RAM.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
+    title: "iphone 5s",
     img: "img/product-3.png",
-    price: 8,
-    company: "htc",
+    price: 499,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Apple iPhone 5s mobile was launched in September 2013. The phone comes with a 4.00-inch touchscreen display offering a resolution of 640x1136 pixels at a pixel density of 326 pixels per inch (ppi) and an aspect ratio of 16:9. Apple iPhone 5s is powered by a 1.3GHz dual-core Apple A7 processor. It comes with 1GB of RAM.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
+    title: "iphone 6s",
     img: "img/product-4.png",
-    price: 18,
-    company: "htc",
+    price: 649,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Apple iPhone 6s mobile was launched in September 2015. The phone comes with a 4.70-inch touchscreen display offering a resolution of 750x1334 pixels at a pixel density of 326 pixels per inch (ppi) and an aspect ratio of 16:9. Apple iPhone 6s is powered by a 1.84GHz dual-core Apple A9 processor.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
+    title: "iphone 8",
     img: "img/product-5.png",
-    price: 24,
-    company: "htc",
+    price: 699,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Apple iPhone 8 contain the Apple A11 Bionic system-on-chip, a hexa-core processor that the company says features two performance cores that are 25% faster than those found in the iPhone 7's A10 processor and four efficiency cores that are 70% faster than those in the prior model.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
+    title: "iphone xs",
     img: "img/product-6.png",
-    price: 17,
-    company: "apple",
+    price: 999,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The iphone Xs' 7 MP front camera features a f/2.2 wide-angle lens and lets you shoot videos at a 1080p resolution, at up to 60 fps. Enjoy superfast download speeds, courtesy of the phone's 4G advanced LTE connectivity. The phone boasts a 64 GB of ROM for your media files.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
+    title: "iphone 12 pro",
     img: "img/product-7.png",
-    price: 30,
-    company: "apple",
+    price: 1,071,
+    company: "APPLE",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "The iPhone 12 Pro display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.06 inches diagonally (actual viewable area is less)",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 8,
+    title: "iphone 15 pro",
+    img: "img/product-8.png",
+    price: 1,299,
+    company: "APPLE",
+    info:
+      "The iPhone 15 Pro display has rounded corners that follows a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 15.54 cm (6.12″) diagonally (actual viewable area is less).",
     inCart: false,
     count: 0,
     total: 0
@@ -92,12 +104,12 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Google Pixel - Black",
+  title: "iPhone 3GS",
   img: "img/product-1.png",
-  price: 10,
-  company: "google",
+  price: 199,
+  company: "APPLE",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Apple iPhone 3GS mobile was launched in June 2009. The phone comes with a touchscreen display offering a resolution of 320x480 pixels at a pixel density of 165 pixels per inch (ppi). Apple iPhone 3GS is powered by a 600 MHz one-core processor. It comes with 256MB of RAM.",
   inCart: false,
   count: 0,
   total: 0
